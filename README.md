@@ -1,2 +1,2 @@
 # Snaky-game
-one of my first programs i wrote :)
+one of my first programs :)
